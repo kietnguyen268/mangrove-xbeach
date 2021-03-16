@@ -1,0 +1,7 @@
+Hm0       = 1
+Tp        = 4
+mainang   = 270
+gammajsp  = 3.3
+s         = 10000
+duration  = 10800
+dtbc      = 1
